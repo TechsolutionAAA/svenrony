@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4c028cd1.css",
+    "main.js": "/static/js/main.9b6ca21a.js",
+    "static/media/jeanfrancoisbury.png": "/static/media/jeanfrancoisbury.ece5ef43dd1591ca4160.png",
+    "static/media/ottokasino.png": "/static/media/ottokasino.a630b91dac73c1759e22.png",
+    "static/media/zenventures.png": "/static/media/zenventures.2d0556d55d6dd40a7b75.png",
+    "static/media/furio.png": "/static/media/furio.a716b35cd704a86f97ce.png",
+    "static/media/kingflokiworld.png": "/static/media/kingflokiworld.e52f57ca976fe1ab1702.png",
+    "static/media/o5o.png": "/static/media/o5o.d06f3c7fd00c60147337.png",
+    "static/media/Stay Dreaming Regular.ttf": "/static/media/Stay Dreaming Regular.5f41e4323ae718ea1439.ttf",
+    "static/media/schoolyardsnacks.png": "/static/media/schoolyardsnacks.e537696db1d2b8da808b.png",
+    "static/media/imangu.png": "/static/media/imangu.987e8ae945e4883bcfe0.png",
+    "static/media/panwallet.png": "/static/media/panwallet.f84cf6d5c5e9042f24e3.png",
+    "static/media/safuu.png": "/static/media/safuu.e72db3a2aac0154a295b.png",
+    "static/media/metavrse.png": "/static/media/metavrse.c509c1fec7c1c2fcbacb.png",
+    "static/media/spectrocoin.png": "/static/media/spectrocoin.d9935a2d8e32859222a6.png",
+    "static/media/safehavendefi.png": "/static/media/safehavendefi.81c05021bda05b5157fa.png",
+    "static/media/seamaf.png": "/static/media/seamaf.494709cbe8ae91138106.png",
+    "static/media/postgresql.png": "/static/media/postgresql.543ba447e18c8fb44e7d.png",
+    "static/media/react.png": "/static/media/react.a2ab6c4d1178e4f87f96.png",
+    "static/media/rust.png": "/static/media/rust.a9b5b80aa3f2b2e676c7.png",
+    "static/media/redux.png": "/static/media/redux.fea06b2074ed6e7942e1.png",
+    "static/media/nodejs.png": "/static/media/nodejs.e155a2b38c3163b60a7d.png",
+    "static/media/laravel.png": "/static/media/laravel.450380f716cd0a5a9f5c.png",
+    "static/media/mysql.png": "/static/media/mysql.2586b9d2fae210216e20.png",
+    "static/media/blockchain.png": "/static/media/blockchain.6a506b9b27444d1a4d67.png",
+    "static/media/angular.png": "/static/media/angular.3525b5707f993a5f3d53.png",
+    "static/media/php.png": "/static/media/php.17723673725c19670e5b.png",
+    "static/media/vuejs.png": "/static/media/vuejs.38eb96e22338b7a83727.png",
+    "static/media/tailwindcss.png": "/static/media/tailwindcss.2932a9f186e9ebcd54f1.png",
+    "static/media/contract.png": "/static/media/contract.afa7e341681ea8e58fd1.png",
+    "static/media/globe2.svg": "/static/media/globe2.49f76029015fad74a47a3551b2ae34fa.svg",
+    "index.html": "/index.html",
+    "main.4c028cd1.css.map": "/static/css/main.4c028cd1.css.map",
+    "main.9b6ca21a.js.map": "/static/js/main.9b6ca21a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c028cd1.css",
+    "static/js/main.9b6ca21a.js"
+  ]
+}
